@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
-* -getline - custom getline function
+* _getline - custom getline function
 * @lineptr: content and lines
 * @n: the byte size
 * @stream: the file stream
